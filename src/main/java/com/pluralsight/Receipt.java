@@ -7,7 +7,7 @@ public class Receipt {
         double price = 7.10;
         int quantity = 3;
 
-        System.out.println("You bought " + quantity + " " + name + " for $" + price);
+        System.out.println("You bought " + quantity + " " + name + " for $" + String.format("%.2f", price));
 
 
     }
