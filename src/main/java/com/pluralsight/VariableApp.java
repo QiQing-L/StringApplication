@@ -15,7 +15,7 @@ public class VariableApp {
         System.out.println("The answer for question 2 is " + startYearOfThisClass);
         String middleInitial = " ";
         System.out.println("The answer for question 3 is " + middleInitial);
-        boolean havePets = no;
+        boolean havePets = false;
         System.out.println("The answer for question 4 is " + havePets);
         String niceMessage = "You look great.";
         System.out.println("The answer for question 5 is " + niceMessage);
